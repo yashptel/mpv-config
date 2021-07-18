@@ -1,0 +1,37 @@
+27-Jun-21 3:06:1  32 Friends Season 7 Disc 1
+27-Jun-21 8:33:1 327 Friends Season 7 Disc 1
+28-Jun-21 1:38:3   6 Friends Season 7 Disc 2
+28-Jun-21 2:24:5  46 Friends Season 7 Disc 2
+28-Jun-21 9:01:4 397 Friends Season 7 Disc 2
+30-Jun-21 6:18:2  23 Friends Season 7 Disc 2
+30-Jun-21 7:39:2  81 Friends Season 7 Disc 2
+30-Jun-21 11:15: 216 Friends Season 7 Disc 2
+02-Jul-21 12:25:  89 Rick.and.Morty.S05E02.Mortyplicity.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+02-Jul-21 7:27:5 145 Friends Season 8 Disc 1
+03-Jul-21 4:53:5  23 Friends Season 8 Disc 1
+03-Jul-21 5:17:0  23 Friends Season 8 Disc 1
+03-Jul-21 5:53:1  36 Friends Season 8 Disc 1
+03-Jul-21 9:25:5 213 Friends Season 8 Disc 1
+04-Jul-21 3:17:3 210 Friends Season 8 Disc 1
+04-Jul-21 4:46:5  89 Friends Season 8 Disc 1
+04-Jul-21 10:32: 346 Friends Season 8 Disc 1
+05-Jul-21 5:23:0 317 Friends Season 8 Disc 2
+05-Jul-21 5:49:5  27 Rick.and.Morty.S05E03.A.Rickconvenient.Mort.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+11-Jul-21 1:23:4  28 Friends Season 9 Disc 1
+11-Jul-21 3:39:5 136 Friends Season 9 Disc 1
+11-Jul-21 4:02:5  23 Friends Season 9 Disc 1
+11-Jul-21 9:20:3 318 Friends Season 9 Disc 1
+12-Jul-21 4:55:3  25 Rick.and.Morty.S05E04.Rickdependence.Spray.1080p.AMZN.WEB-DL.DDP5.1.H.264-NOGRP.mkv
+13-Jul-21 5:02:3  42 Friends Season 9 Disc 1
+15-Jul-21 8:11:0   1 D:\Black.Widow.2021.2160p.DSNP.WEB-DL.DDP5.1.Atmos.HDR.HEVC-CM.mkv
+16-Jul-21 10:58:   4 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\11. React's Props System.mp4
+16-Jul-21 11:25:  27 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\12. Passing and Receiving Props.mp4
+16-Jul-21 2:33:3  29 Friends Season 9 Disc 2
+16-Jul-21 4:01:4  88 Friends Season 9 Disc 2
+16-Jul-21 5:52:0 110 Friends Season 9 Disc 2
+16-Jul-21 5:59:1   7 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\12. Passing and Receiving Props.mp4
+16-Jul-21 6:02:2   3 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\13. Passing Multiple Props.mp4
+16-Jul-21 6:08:2   6 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\14. Passing Props - Solutions.mp4
+16-Jul-21 6:11:5   3 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\15. Component Reuse.mp4
+16-Jul-21 6:42:3  31 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\16. Implementing an Approval Card.mp4
+17-Jul-21 11:30: 1728 D:\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\[GigaCourse.Com] Udemy - Modern React with Redux [2020 Update]\3. Communicating with Props\17. Showing Custom Children.mp4
